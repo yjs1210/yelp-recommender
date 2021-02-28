@@ -1,0 +1,25 @@
+pandas
+tarfile
+tqdm
+json
+numpy
+time
+copy 
+surprise import SVD
+cmfrec
+matplotlib
+operator
+sklearn
+nltk
+string
+re
+xlearn
+networkx
+regex
+math
+os
+shutil
+sys
+scipy
+saeborn
+deepctr
